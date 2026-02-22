@@ -1,4 +1,4 @@
-<h1> Site  desenvolvido   para serviço de Roçagen e limpeza de terrenos  em  geral</h1>
+<h1> Site  desenvolvido   para serviço de Roçagen e limpeza de terrenos </h1>
 <P> Site desenvolvido para um pequeno  morador da zona rural  que trabalha com linpeza de terra
 </P>
 
